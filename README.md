@@ -8,8 +8,6 @@ A beautiful Flutter application showcasing **5 stunning animated border effects*
 
 **Watch the live demo:** [https://streamable.com/vq3dsc](https://streamable.com/vq3dsc)
 
-https://github.com/user-attachments/assets/demo_border_showcase.mov
-
 ---
 
 ## ✨ Features
@@ -152,8 +150,6 @@ _controller = AnimationController(
 | Android  | ✅ Supported |
 | iOS      | ✅ Supported |
 | Web      | ✅ Supported |
-| macOS    | ✅ Supported |
-| Linux    | ✅ Supported |
 | Windows  | ✅ Supported |
 
 ---
@@ -164,12 +160,6 @@ _controller = AnimationController(
 - **UI Inspiration:** Use these border designs in your own projects
 - **Component Library:** Extract and customize individual border styles
 - **Portfolio Piece:** Showcase Flutter animation capabilities
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
